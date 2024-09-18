@@ -1,0 +1,4 @@
+node_modules/
+engineering-docs/
+.env
+.DS_Store
